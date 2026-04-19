@@ -1,4 +1,9 @@
 {
+  "sandbox": {
+    "network": {
+      "allowedDomains": ["vps.soliwkr.pro"]
+    }
+  },
   "mcpServers": {
     "dokploy": {
       "command": "npx",
