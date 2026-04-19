@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "dokploy": {
+      "command": "npx",
+      "args": ["-y", "dokploy-mcp"],
+      "env": {
+        "DOKPLOY_TOKEN": "ioPbkQjDywQiLdFEPrjnXiFeDpwkAkqxXqxYOONMhSaFDSkjnBarMhoaMUcNOtYu",
+        "DOKPLOY_BASE_URL": "https://vps.soliwkr.pro"
+      }
+    }
+  }
+}
